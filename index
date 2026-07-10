@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Football Blitz AI</title>
+<meta charset="UTF-8">
+<meta http-equiv="refresh" content="0; url=https://play.google.com/store/apps/details?id=com.yellowbikegames.footballblitzai">
+<title>Football Blitz AI</title>
 </head>
 <body>
-    <h1>Football Blitz AI</h1>
-    <p>Official developer website. </p>
+<p>Redirecting to Google Play...</p>
+
+<script>
+window.location.replace("https://play.google.com/store/apps/details?id=com.yellowbikegames.footballblitzai");
+</script>
+
 </body>
 </html>
