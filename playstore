@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Football Blitz AI</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <meta http-equiv="refresh" content="2;url=https://play.google.com/store/apps/details?id=com.yellowbikegames.footballblitzai">
+</head>
+
+<body>
+
+<div class="background"></div>
+
+<div class="container">
+
+    <img src="logo.png" class="logo" alt="Football Blitz AI">
+
+    <h1>Football Blitz AI</h1>
+
+    <a class="play-button"
+       href="https://play.google.com/store/apps/details?id=com.yellowbikegames.footballblitzai">
+        Download on Google Play
+    </a>
+
+    <p class="redirect">
+        Redirecting...
+    </p>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
